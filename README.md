@@ -25,6 +25,9 @@ My starter prediction was that samples would become more like classroom sentence
 
 Both runs used Colab CPU, Python 3.13.15 and PyTorch 2.11.0+cpu, with two transformer blocks, four heads, 64-dimensional embeddings, a 48-token context and batch size 32. Time above is the recorded training loop, not total notebook runtime. Neither run was interrupted.
 
+I used 3,000 steps as the recommended starting budget, after a separate 10-step setup check, rather than assuming a larger budget would necessarily help. I kept the learning-rate setting at 0.001 in both experiments to focus the comparison on the corpus extension. Excessively large updates can overshoot useful parameter values or make training unstable; excessively small updates can make learning slow within a fixed budget. The notebook uses warmup and cosine decay, so the effective rate varies during training. Both runs showed falling training and validation panel loss, but this does not prove 0.001 or 3,000 steps was optimal: I did not compare alternative learning rates or budgets.
+
+
 Text is normalized and deduplicated before a 90/10 passage split. Validation passages do not update weights. Vocabulary is built only from training passages. The split, fixed loss panels, seed and baseline generation settings stay fixed within each run; adding data changes the passage sets, vocabulary and parameter count across runs. Even with the same seed, this is not an identical random initialization comparison across differently sized models.
 
 ## Fixed eval results
@@ -58,6 +61,11 @@ All 48 cases were run unchanged before and after each experiment. The evaluator 
 Coverage increased from 24 to 29 scorable cases. Three opposite-word cases and two spatial cases became scorable. The expanded trained model retained 16/16 starter-pattern successes and scored 8/8 on new wording, versus 4/8 in the starter. This measured improvement does not isolate a unique causal mechanism: the training data, vocabulary, parameter count and random draws changed.
 
 All three opposite-word cases became scorable but remained wrong: the model selected “warm” for hot, “quiet” for empty, and “late” for noisy. One possible explanation is that the descriptive teaching patterns did not transfer to the test wording. These results do not show that the model mastered opposites.
+
+The extension varied names, objects and contrast pairs, but much of its sentence structure repeated. For example, opposite-word passages often followed “NAME describes the OBJECT as QUALITY and the OBJECT as QUALITY to show an opposite pair,” while spatial passages often followed “NAME places the OBJECT above the CONTAINER so the CONTAINER sits below the OBJECT.” Replacing nouns creates distinct passages without necessarily introducing distinct reasoning demands. The opposite-word evals ask for a next-word completion in a different construction. That mismatch is a plausible explanation for weak transfer, not a proven cause.
+
+The 777 new passages were about 14.5% of the expanded corpus's 5,369 unique passages. Their presence gave the model additional opportunities to learn these patterns, but did not guarantee it would reliably use them in another construction. The new-wording score rose from 4/8 to 8/8, yet only 1/5 scorable extension cases was correct. I therefore separate improved coverage and measured starter transfer from mastery of the targeted extension skills.
+
 
 The spatial model selected “below” correctly for the above/below case, but its unrestricted continuation was “at the soft to .” It selected “shelf” instead of “book” in the containment case. The horizontal case remained unscorable because “ball” and “box” were absent from the vocabulary. My extension did not fully cover every needed word. A correct four-choice answer therefore does not guarantee fluent output or reliable spatial reasoning.
 
@@ -278,6 +286,9 @@ nora places the photo above the drawer so the drawer sits below the photo .
 
 In the starter run, the saved 0.8 and 1.2 samples were identical. At 0.3, one sample used “investment” instead of “deposit”; another used a different consumer sentence pattern. The observed comparison is modest, not evidence that temperature necessarily creates dramatic changes.
 
+The expanded run showed a clearer difference. At 0.8, all four saved samples followed classroom sentence patterns. At 1.2, one sample was malformed (“flower subscriber sets the flower on the jar on the left .”), while another reproduced a coherent spatial pattern (“nora places the photo above the drawer so the drawer sits below the photo .”). Higher temperature made less dominant alternatives more likely in this small sample, allowing both a new thematic pattern and a worse sentence. It did not teach a new skill or repair the model's eval failures: weights stayed fixed. Four samples at each temperature are too few to establish a reliable quality trend, and identical seeds do not force identical text after the sampled paths diverge.
+
+
 ## Real chat interactions and limitations
 
 The provided [chat.py](chat.py) and notebook section 10 generate replies from the trained nanoGPT, without another model API, canned answers or retraining. Each prompt starts fresh. The context is 48 tokens; longer prompts keep only the most recent context. Unknown words are reported and mapped to UNK. This model continues text and is not instruction-trained.
@@ -337,4 +348,6 @@ The four documented evaluation commands were verified in a separate local enviro
 
 ## One limitation and next experiment
 
-A key observed limitation is that better vocabulary coverage did not produce reliable relationship prediction: all three opposite cases failed even though their words were known. A next experiment would add more varied contrast explanations and spatial examples, including missing everyday object vocabulary, without copying or rewriting the existing test items. I would keep this public development suite fixed and also design separate untouched tests before training to assess transfer beyond the examples used to guide development.
+A key observed limitation is that better vocabulary coverage did not produce reliable relationship prediction: all three opposite cases failed even though their words were known. Many added passages shared a few templates, and the held-out loss passages could share those templates too. Low validation loss therefore did not establish successful transfer to the eval constructions.
+
+My next experiment would compare the current template-heavy extension with a similarly sized extension containing more diverse descriptive, comparative and explanatory constructions. I would keep the classroom corpus, 3,000-step budget, learning-rate schedule and tokenizer rules fixed, aim for comparable vocabulary coverage, and check whether changes extend beyond loss on shared templates. Neither condition would contain existing test items, answer lists or rewritten test stories. I would retain the public development suite and create a separate untouched test set before training to assess transfer. Missing everyday-object vocabulary is also a useful follow-up, but should be tracked separately so gains from vocabulary coverage are not confused with gains from construction diversity.
