@@ -1,0 +1,195 @@
+mia describes the soup as hot and the salad as cold to show an opposite pair .
+mia learns that hot and cold describe contrasting states .
+leo describes the soup as hot and the salad as cold to show an opposite pair .
+leo learns that hot and cold describe contrasting states .
+nora describes the soup as hot and the salad as cold to show an opposite pair .
+nora learns that hot and cold describe contrasting states .
+omar describes the soup as hot and the salad as cold to show an opposite pair .
+omar learns that hot and cold describe contrasting states .
+iris describes the soup as hot and the salad as cold to show an opposite pair .
+iris learns that hot and cold describe contrasting states .
+sam describes the soup as hot and the salad as cold to show an opposite pair .
+sam learns that hot and cold describe contrasting states .
+rose describes the soup as hot and the salad as cold to show an opposite pair .
+rose learns that hot and cold describe contrasting states .
+ben describes the soup as hot and the salad as cold to show an opposite pair .
+ben learns that hot and cold describe contrasting states .
+mia describes the basket as empty and the bottle as full to show an opposite pair .
+mia learns that empty and full describe contrasting states .
+leo describes the basket as empty and the bottle as full to show an opposite pair .
+leo learns that empty and full describe contrasting states .
+nora describes the basket as empty and the bottle as full to show an opposite pair .
+nora learns that empty and full describe contrasting states .
+omar describes the basket as empty and the bottle as full to show an opposite pair .
+omar learns that empty and full describe contrasting states .
+iris describes the basket as empty and the bottle as full to show an opposite pair .
+iris learns that empty and full describe contrasting states .
+sam describes the basket as empty and the bottle as full to show an opposite pair .
+sam learns that empty and full describe contrasting states .
+rose describes the basket as empty and the bottle as full to show an opposite pair .
+rose learns that empty and full describe contrasting states .
+ben describes the basket as empty and the bottle as full to show an opposite pair .
+ben learns that empty and full describe contrasting states .
+mia describes the market as noisy and the library as quiet to show an opposite pair .
+mia learns that noisy and quiet describe contrasting states .
+leo describes the market as noisy and the library as quiet to show an opposite pair .
+leo learns that noisy and quiet describe contrasting states .
+nora describes the market as noisy and the library as quiet to show an opposite pair .
+nora learns that noisy and quiet describe contrasting states .
+omar describes the market as noisy and the library as quiet to show an opposite pair .
+omar learns that noisy and quiet describe contrasting states .
+iris describes the market as noisy and the library as quiet to show an opposite pair .
+iris learns that noisy and quiet describe contrasting states .
+sam describes the market as noisy and the library as quiet to show an opposite pair .
+sam learns that noisy and quiet describe contrasting states .
+rose describes the market as noisy and the library as quiet to show an opposite pair .
+rose learns that noisy and quiet describe contrasting states .
+ben describes the market as noisy and the library as quiet to show an opposite pair .
+ben learns that noisy and quiet describe contrasting states .
+mia describes the train as fast and the cart as slow to show an opposite pair .
+mia learns that fast and slow describe contrasting states .
+leo describes the train as fast and the cart as slow to show an opposite pair .
+leo learns that fast and slow describe contrasting states .
+nora describes the train as fast and the cart as slow to show an opposite pair .
+nora learns that fast and slow describe contrasting states .
+omar describes the train as fast and the cart as slow to show an opposite pair .
+omar learns that fast and slow describe contrasting states .
+iris describes the train as fast and the cart as slow to show an opposite pair .
+iris learns that fast and slow describe contrasting states .
+sam describes the train as fast and the cart as slow to show an opposite pair .
+sam learns that fast and slow describe contrasting states .
+rose describes the train as fast and the cart as slow to show an opposite pair .
+rose learns that fast and slow describe contrasting states .
+ben describes the train as fast and the cart as slow to show an opposite pair .
+ben learns that fast and slow describe contrasting states .
+mia describes the stone as heavy and the feather as light to show an opposite pair .
+mia learns that heavy and light describe contrasting states .
+leo describes the stone as heavy and the feather as light to show an opposite pair .
+leo learns that heavy and light describe contrasting states .
+nora describes the stone as heavy and the feather as light to show an opposite pair .
+nora learns that heavy and light describe contrasting states .
+omar describes the stone as heavy and the feather as light to show an opposite pair .
+omar learns that heavy and light describe contrasting states .
+iris describes the stone as heavy and the feather as light to show an opposite pair .
+iris learns that heavy and light describe contrasting states .
+sam describes the stone as heavy and the feather as light to show an opposite pair .
+sam learns that heavy and light describe contrasting states .
+rose describes the stone as heavy and the feather as light to show an opposite pair .
+rose learns that heavy and light describe contrasting states .
+ben describes the stone as heavy and the feather as light to show an opposite pair .
+ben learns that heavy and light describe contrasting states .
+mia describes the table as hard and the pillow as soft to show an opposite pair .
+mia learns that hard and soft describe contrasting states .
+leo describes the table as hard and the pillow as soft to show an opposite pair .
+leo learns that hard and soft describe contrasting states .
+nora describes the table as hard and the pillow as soft to show an opposite pair .
+nora learns that hard and soft describe contrasting states .
+omar describes the table as hard and the pillow as soft to show an opposite pair .
+omar learns that hard and soft describe contrasting states .
+iris describes the table as hard and the pillow as soft to show an opposite pair .
+iris learns that hard and soft describe contrasting states .
+sam describes the table as hard and the pillow as soft to show an opposite pair .
+sam learns that hard and soft describe contrasting states .
+rose describes the table as hard and the pillow as soft to show an opposite pair .
+rose learns that hard and soft describe contrasting states .
+ben describes the table as hard and the pillow as soft to show an opposite pair .
+ben learns that hard and soft describe contrasting states .
+mia describes the visitor as early and the driver as late to show an opposite pair .
+mia learns that early and late describe contrasting states .
+leo describes the visitor as early and the driver as late to show an opposite pair .
+leo learns that early and late describe contrasting states .
+nora describes the visitor as early and the driver as late to show an opposite pair .
+nora learns that early and late describe contrasting states .
+omar describes the visitor as early and the driver as late to show an opposite pair .
+omar learns that early and late describe contrasting states .
+iris describes the visitor as early and the driver as late to show an opposite pair .
+iris learns that early and late describe contrasting states .
+sam describes the visitor as early and the driver as late to show an opposite pair .
+sam learns that early and late describe contrasting states .
+rose describes the visitor as early and the driver as late to show an opposite pair .
+rose learns that early and late describe contrasting states .
+ben describes the visitor as early and the driver as late to show an opposite pair .
+ben learns that early and late describe contrasting states .
+mia describes the music as loud and the whisper as quiet to show an opposite pair .
+mia learns that loud and quiet describe contrasting states .
+leo describes the music as loud and the whisper as quiet to show an opposite pair .
+leo learns that loud and quiet describe contrasting states .
+nora describes the music as loud and the whisper as quiet to show an opposite pair .
+nora learns that loud and quiet describe contrasting states .
+omar describes the music as loud and the whisper as quiet to show an opposite pair .
+omar learns that loud and quiet describe contrasting states .
+iris describes the music as loud and the whisper as quiet to show an opposite pair .
+iris learns that loud and quiet describe contrasting states .
+sam describes the music as loud and the whisper as quiet to show an opposite pair .
+sam learns that loud and quiet describe contrasting states .
+rose describes the music as loud and the whisper as quiet to show an opposite pair .
+rose learns that loud and quiet describe contrasting states .
+ben describes the music as loud and the whisper as quiet to show an opposite pair .
+ben learns that loud and quiet describe contrasting states .
+mia describes the towel as wet and the shirt as dry to show an opposite pair .
+mia learns that wet and dry describe contrasting states .
+leo describes the towel as wet and the shirt as dry to show an opposite pair .
+leo learns that wet and dry describe contrasting states .
+nora describes the towel as wet and the shirt as dry to show an opposite pair .
+nora learns that wet and dry describe contrasting states .
+omar describes the towel as wet and the shirt as dry to show an opposite pair .
+omar learns that wet and dry describe contrasting states .
+iris describes the towel as wet and the shirt as dry to show an opposite pair .
+iris learns that wet and dry describe contrasting states .
+sam describes the towel as wet and the shirt as dry to show an opposite pair .
+sam learns that wet and dry describe contrasting states .
+rose describes the towel as wet and the shirt as dry to show an opposite pair .
+rose learns that wet and dry describe contrasting states .
+ben describes the towel as wet and the shirt as dry to show an opposite pair .
+ben learns that wet and dry describe contrasting states .
+mia describes the door as open and the window as closed to show an opposite pair .
+mia learns that open and closed describe contrasting states .
+leo describes the door as open and the window as closed to show an opposite pair .
+leo learns that open and closed describe contrasting states .
+nora describes the door as open and the window as closed to show an opposite pair .
+nora learns that open and closed describe contrasting states .
+omar describes the door as open and the window as closed to show an opposite pair .
+omar learns that open and closed describe contrasting states .
+iris describes the door as open and the window as closed to show an opposite pair .
+iris learns that open and closed describe contrasting states .
+sam describes the door as open and the window as closed to show an opposite pair .
+sam learns that open and closed describe contrasting states .
+rose describes the door as open and the window as closed to show an opposite pair .
+rose learns that open and closed describe contrasting states .
+ben describes the door as open and the window as closed to show an opposite pair .
+ben learns that open and closed describe contrasting states .
+mia describes the plate as clean and the cup as dirty to show an opposite pair .
+mia learns that clean and dirty describe contrasting states .
+leo describes the plate as clean and the cup as dirty to show an opposite pair .
+leo learns that clean and dirty describe contrasting states .
+nora describes the plate as clean and the cup as dirty to show an opposite pair .
+nora learns that clean and dirty describe contrasting states .
+omar describes the plate as clean and the cup as dirty to show an opposite pair .
+omar learns that clean and dirty describe contrasting states .
+iris describes the plate as clean and the cup as dirty to show an opposite pair .
+iris learns that clean and dirty describe contrasting states .
+sam describes the plate as clean and the cup as dirty to show an opposite pair .
+sam learns that clean and dirty describe contrasting states .
+rose describes the plate as clean and the cup as dirty to show an opposite pair .
+rose learns that clean and dirty describe contrasting states .
+ben describes the plate as clean and the cup as dirty to show an opposite pair .
+ben learns that clean and dirty describe contrasting states .
+mia describes the room as bright and the hall as dark to show an opposite pair .
+mia learns that bright and dark describe contrasting states .
+leo describes the room as bright and the hall as dark to show an opposite pair .
+leo learns that bright and dark describe contrasting states .
+nora describes the room as bright and the hall as dark to show an opposite pair .
+nora learns that bright and dark describe contrasting states .
+omar describes the room as bright and the hall as dark to show an opposite pair .
+omar learns that bright and dark describe contrasting states .
+iris describes the room as bright and the hall as dark to show an opposite pair .
+iris learns that bright and dark describe contrasting states .
+sam describes the room as bright and the hall as dark to show an opposite pair .
+sam learns that bright and dark describe contrasting states .
+rose describes the room as bright and the hall as dark to show an opposite pair .
+rose learns that bright and dark describe contrasting states .
+ben describes the room as bright and the hall as dark to show an opposite pair .
+ben learns that bright and dark describe contrasting states .
+a round plate has a curved edge .
+warm water feels less hot than boiling water .
+mia uses the word opposite when comparing two contrasting qualities .

@@ -1,0 +1,33 @@
+{
+  "files": [
+    {
+      "file": "opposites.txt",
+      "bytes": 13999,
+      "sha256": "dda10b42b386ba6250adfc7e8ee48c498c59be1a79f437ac4c8e249a15e2e2ad",
+      "warnings": [],
+      "characters": 13999,
+      "passages": 195,
+      "unique_passages": 195,
+      "preview": "mia describes the soup as hot and the salad as cold to show an opposite pair .\nmia learns that hot and cold describe contrasting states .\nleo describes the soup as hot and the salad as cold to show an opposite pair .\nleo learns that hot and cold describe contrasting states .\nnora describes the soup "
+    },
+    {
+      "file": "spatial_relations.txt",
+      "bytes": 38374,
+      "sha256": "8213c34f2b17b5065250395b488602f3f4b91abed716fc44af1cfe69ede459fa",
+      "warnings": [],
+      "characters": 38374,
+      "passages": 582,
+      "unique_passages": 582,
+      "preview": "mia puts the cup inside the basket so the basket now contains the cup .\nmia places the cup above the basket so the basket sits below the cup .\nmia places the cup below the basket so the basket sits above the cup .\nmia sets the cup on the left and the basket on the right .\nmia sets the cup on the rig"
+    }
+  ],
+  "ignored": [],
+  "external_passages": 777,
+  "mode": "classroom",
+  "base_passages": 6200,
+  "unique_passages": 5369,
+  "new_unique_passages": 777,
+  "duplicates_removed": 1608,
+  "max_passage_tokens": 47,
+  "split_unit": "deduplicated passage, not source file"
+}

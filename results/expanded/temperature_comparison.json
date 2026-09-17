@@ -1,0 +1,20 @@
+{
+  "0.3": [
+    "the important train was mentioned in the travel report yesterday .",
+    "the report about the deposit explains the interest in detail .",
+    "the report about the buyer explains the support in detail .",
+    "the new physician was mentioned in the care report yesterday ."
+  ],
+  "0.8": [
+    "the important train was mentioned in the travel report yesterday .",
+    "we learned about the new software during a discussion of data .",
+    "today the market focused on delivery and the new offering .",
+    "a review of purchase helped us understand the important consumer ."
+  ],
+  "1.2": [
+    "flower subscriber sets the flower on the jar on the left .",
+    "we learned about the important software during a discussion of data .",
+    "a review of treatment helped us understand the important dentist .",
+    "nora places the photo above the drawer so the drawer sits below the photo ."
+  ]
+}

@@ -1,0 +1,582 @@
+mia puts the cup inside the basket so the basket now contains the cup .
+mia places the cup above the basket so the basket sits below the cup .
+mia places the cup below the basket so the basket sits above the cup .
+mia sets the cup on the left and the basket on the right .
+mia sets the cup on the right and the basket on the left .
+mia places the cup beside the basket and leaves it outside .
+leo puts the cup inside the basket so the basket now contains the cup .
+leo places the cup above the basket so the basket sits below the cup .
+leo places the cup below the basket so the basket sits above the cup .
+leo sets the cup on the left and the basket on the right .
+leo sets the cup on the right and the basket on the left .
+leo places the cup beside the basket and leaves it outside .
+nora puts the cup inside the basket so the basket now contains the cup .
+nora places the cup above the basket so the basket sits below the cup .
+nora places the cup below the basket so the basket sits above the cup .
+nora sets the cup on the left and the basket on the right .
+nora sets the cup on the right and the basket on the left .
+nora places the cup beside the basket and leaves it outside .
+omar puts the cup inside the basket so the basket now contains the cup .
+omar places the cup above the basket so the basket sits below the cup .
+omar places the cup below the basket so the basket sits above the cup .
+omar sets the cup on the left and the basket on the right .
+omar sets the cup on the right and the basket on the left .
+omar places the cup beside the basket and leaves it outside .
+iris puts the cup inside the basket so the basket now contains the cup .
+iris places the cup above the basket so the basket sits below the cup .
+iris places the cup below the basket so the basket sits above the cup .
+iris sets the cup on the left and the basket on the right .
+iris sets the cup on the right and the basket on the left .
+iris places the cup beside the basket and leaves it outside .
+sam puts the cup inside the basket so the basket now contains the cup .
+sam places the cup above the basket so the basket sits below the cup .
+sam places the cup below the basket so the basket sits above the cup .
+sam sets the cup on the left and the basket on the right .
+sam sets the cup on the right and the basket on the left .
+sam places the cup beside the basket and leaves it outside .
+rose puts the cup inside the basket so the basket now contains the cup .
+rose places the cup above the basket so the basket sits below the cup .
+rose places the cup below the basket so the basket sits above the cup .
+rose sets the cup on the left and the basket on the right .
+rose sets the cup on the right and the basket on the left .
+rose places the cup beside the basket and leaves it outside .
+ben puts the cup inside the basket so the basket now contains the cup .
+ben places the cup above the basket so the basket sits below the cup .
+ben places the cup below the basket so the basket sits above the cup .
+ben sets the cup on the left and the basket on the right .
+ben sets the cup on the right and the basket on the left .
+ben places the cup beside the basket and leaves it outside .
+mia puts the pencil inside the drawer so the drawer now contains the pencil .
+mia places the pencil above the drawer so the drawer sits below the pencil .
+mia places the pencil below the drawer so the drawer sits above the pencil .
+mia sets the pencil on the left and the drawer on the right .
+mia sets the pencil on the right and the drawer on the left .
+mia places the pencil beside the drawer and leaves it outside .
+leo puts the pencil inside the drawer so the drawer now contains the pencil .
+leo places the pencil above the drawer so the drawer sits below the pencil .
+leo places the pencil below the drawer so the drawer sits above the pencil .
+leo sets the pencil on the left and the drawer on the right .
+leo sets the pencil on the right and the drawer on the left .
+leo places the pencil beside the drawer and leaves it outside .
+nora puts the pencil inside the drawer so the drawer now contains the pencil .
+nora places the pencil above the drawer so the drawer sits below the pencil .
+nora places the pencil below the drawer so the drawer sits above the pencil .
+nora sets the pencil on the left and the drawer on the right .
+nora sets the pencil on the right and the drawer on the left .
+nora places the pencil beside the drawer and leaves it outside .
+omar puts the pencil inside the drawer so the drawer now contains the pencil .
+omar places the pencil above the drawer so the drawer sits below the pencil .
+omar places the pencil below the drawer so the drawer sits above the pencil .
+omar sets the pencil on the left and the drawer on the right .
+omar sets the pencil on the right and the drawer on the left .
+omar places the pencil beside the drawer and leaves it outside .
+iris puts the pencil inside the drawer so the drawer now contains the pencil .
+iris places the pencil above the drawer so the drawer sits below the pencil .
+iris places the pencil below the drawer so the drawer sits above the pencil .
+iris sets the pencil on the left and the drawer on the right .
+iris sets the pencil on the right and the drawer on the left .
+iris places the pencil beside the drawer and leaves it outside .
+sam puts the pencil inside the drawer so the drawer now contains the pencil .
+sam places the pencil above the drawer so the drawer sits below the pencil .
+sam places the pencil below the drawer so the drawer sits above the pencil .
+sam sets the pencil on the left and the drawer on the right .
+sam sets the pencil on the right and the drawer on the left .
+sam places the pencil beside the drawer and leaves it outside .
+rose puts the pencil inside the drawer so the drawer now contains the pencil .
+rose places the pencil above the drawer so the drawer sits below the pencil .
+rose places the pencil below the drawer so the drawer sits above the pencil .
+rose sets the pencil on the left and the drawer on the right .
+rose sets the pencil on the right and the drawer on the left .
+rose places the pencil beside the drawer and leaves it outside .
+ben puts the pencil inside the drawer so the drawer now contains the pencil .
+ben places the pencil above the drawer so the drawer sits below the pencil .
+ben places the pencil below the drawer so the drawer sits above the pencil .
+ben sets the pencil on the left and the drawer on the right .
+ben sets the pencil on the right and the drawer on the left .
+ben places the pencil beside the drawer and leaves it outside .
+mia puts the key inside the jar so the jar now contains the key .
+mia places the key above the jar so the jar sits below the key .
+mia places the key below the jar so the jar sits above the key .
+mia sets the key on the left and the jar on the right .
+mia sets the key on the right and the jar on the left .
+mia places the key beside the jar and leaves it outside .
+leo puts the key inside the jar so the jar now contains the key .
+leo places the key above the jar so the jar sits below the key .
+leo places the key below the jar so the jar sits above the key .
+leo sets the key on the left and the jar on the right .
+leo sets the key on the right and the jar on the left .
+leo places the key beside the jar and leaves it outside .
+nora puts the key inside the jar so the jar now contains the key .
+nora places the key above the jar so the jar sits below the key .
+nora places the key below the jar so the jar sits above the key .
+nora sets the key on the left and the jar on the right .
+nora sets the key on the right and the jar on the left .
+nora places the key beside the jar and leaves it outside .
+omar puts the key inside the jar so the jar now contains the key .
+omar places the key above the jar so the jar sits below the key .
+omar places the key below the jar so the jar sits above the key .
+omar sets the key on the left and the jar on the right .
+omar sets the key on the right and the jar on the left .
+omar places the key beside the jar and leaves it outside .
+iris puts the key inside the jar so the jar now contains the key .
+iris places the key above the jar so the jar sits below the key .
+iris places the key below the jar so the jar sits above the key .
+iris sets the key on the left and the jar on the right .
+iris sets the key on the right and the jar on the left .
+iris places the key beside the jar and leaves it outside .
+sam puts the key inside the jar so the jar now contains the key .
+sam places the key above the jar so the jar sits below the key .
+sam places the key below the jar so the jar sits above the key .
+sam sets the key on the left and the jar on the right .
+sam sets the key on the right and the jar on the left .
+sam places the key beside the jar and leaves it outside .
+rose puts the key inside the jar so the jar now contains the key .
+rose places the key above the jar so the jar sits below the key .
+rose places the key below the jar so the jar sits above the key .
+rose sets the key on the left and the jar on the right .
+rose sets the key on the right and the jar on the left .
+rose places the key beside the jar and leaves it outside .
+ben puts the key inside the jar so the jar now contains the key .
+ben places the key above the jar so the jar sits below the key .
+ben places the key below the jar so the jar sits above the key .
+ben sets the key on the left and the jar on the right .
+ben sets the key on the right and the jar on the left .
+ben places the key beside the jar and leaves it outside .
+mia puts the apple inside the case so the case now contains the apple .
+mia places the apple above the case so the case sits below the apple .
+mia places the apple below the case so the case sits above the apple .
+mia sets the apple on the left and the case on the right .
+mia sets the apple on the right and the case on the left .
+mia places the apple beside the case and leaves it outside .
+leo puts the apple inside the case so the case now contains the apple .
+leo places the apple above the case so the case sits below the apple .
+leo places the apple below the case so the case sits above the apple .
+leo sets the apple on the left and the case on the right .
+leo sets the apple on the right and the case on the left .
+leo places the apple beside the case and leaves it outside .
+nora puts the apple inside the case so the case now contains the apple .
+nora places the apple above the case so the case sits below the apple .
+nora places the apple below the case so the case sits above the apple .
+nora sets the apple on the left and the case on the right .
+nora sets the apple on the right and the case on the left .
+nora places the apple beside the case and leaves it outside .
+omar puts the apple inside the case so the case now contains the apple .
+omar places the apple above the case so the case sits below the apple .
+omar places the apple below the case so the case sits above the apple .
+omar sets the apple on the left and the case on the right .
+omar sets the apple on the right and the case on the left .
+omar places the apple beside the case and leaves it outside .
+iris puts the apple inside the case so the case now contains the apple .
+iris places the apple above the case so the case sits below the apple .
+iris places the apple below the case so the case sits above the apple .
+iris sets the apple on the left and the case on the right .
+iris sets the apple on the right and the case on the left .
+iris places the apple beside the case and leaves it outside .
+sam puts the apple inside the case so the case now contains the apple .
+sam places the apple above the case so the case sits below the apple .
+sam places the apple below the case so the case sits above the apple .
+sam sets the apple on the left and the case on the right .
+sam sets the apple on the right and the case on the left .
+sam places the apple beside the case and leaves it outside .
+rose puts the apple inside the case so the case now contains the apple .
+rose places the apple above the case so the case sits below the apple .
+rose places the apple below the case so the case sits above the apple .
+rose sets the apple on the left and the case on the right .
+rose sets the apple on the right and the case on the left .
+rose places the apple beside the case and leaves it outside .
+ben puts the apple inside the case so the case now contains the apple .
+ben places the apple above the case so the case sits below the apple .
+ben places the apple below the case so the case sits above the apple .
+ben sets the apple on the left and the case on the right .
+ben sets the apple on the right and the case on the left .
+ben places the apple beside the case and leaves it outside .
+mia puts the toy inside the basket so the basket now contains the toy .
+mia places the toy above the basket so the basket sits below the toy .
+mia places the toy below the basket so the basket sits above the toy .
+mia sets the toy on the left and the basket on the right .
+mia sets the toy on the right and the basket on the left .
+mia places the toy beside the basket and leaves it outside .
+leo puts the toy inside the basket so the basket now contains the toy .
+leo places the toy above the basket so the basket sits below the toy .
+leo places the toy below the basket so the basket sits above the toy .
+leo sets the toy on the left and the basket on the right .
+leo sets the toy on the right and the basket on the left .
+leo places the toy beside the basket and leaves it outside .
+nora puts the toy inside the basket so the basket now contains the toy .
+nora places the toy above the basket so the basket sits below the toy .
+nora places the toy below the basket so the basket sits above the toy .
+nora sets the toy on the left and the basket on the right .
+nora sets the toy on the right and the basket on the left .
+nora places the toy beside the basket and leaves it outside .
+omar puts the toy inside the basket so the basket now contains the toy .
+omar places the toy above the basket so the basket sits below the toy .
+omar places the toy below the basket so the basket sits above the toy .
+omar sets the toy on the left and the basket on the right .
+omar sets the toy on the right and the basket on the left .
+omar places the toy beside the basket and leaves it outside .
+iris puts the toy inside the basket so the basket now contains the toy .
+iris places the toy above the basket so the basket sits below the toy .
+iris places the toy below the basket so the basket sits above the toy .
+iris sets the toy on the left and the basket on the right .
+iris sets the toy on the right and the basket on the left .
+iris places the toy beside the basket and leaves it outside .
+sam puts the toy inside the basket so the basket now contains the toy .
+sam places the toy above the basket so the basket sits below the toy .
+sam places the toy below the basket so the basket sits above the toy .
+sam sets the toy on the left and the basket on the right .
+sam sets the toy on the right and the basket on the left .
+sam places the toy beside the basket and leaves it outside .
+rose puts the toy inside the basket so the basket now contains the toy .
+rose places the toy above the basket so the basket sits below the toy .
+rose places the toy below the basket so the basket sits above the toy .
+rose sets the toy on the left and the basket on the right .
+rose sets the toy on the right and the basket on the left .
+rose places the toy beside the basket and leaves it outside .
+ben puts the toy inside the basket so the basket now contains the toy .
+ben places the toy above the basket so the basket sits below the toy .
+ben places the toy below the basket so the basket sits above the toy .
+ben sets the toy on the left and the basket on the right .
+ben sets the toy on the right and the basket on the left .
+ben places the toy beside the basket and leaves it outside .
+mia puts the coin inside the drawer so the drawer now contains the coin .
+mia places the coin above the drawer so the drawer sits below the coin .
+mia places the coin below the drawer so the drawer sits above the coin .
+mia sets the coin on the left and the drawer on the right .
+mia sets the coin on the right and the drawer on the left .
+mia places the coin beside the drawer and leaves it outside .
+leo puts the coin inside the drawer so the drawer now contains the coin .
+leo places the coin above the drawer so the drawer sits below the coin .
+leo places the coin below the drawer so the drawer sits above the coin .
+leo sets the coin on the left and the drawer on the right .
+leo sets the coin on the right and the drawer on the left .
+leo places the coin beside the drawer and leaves it outside .
+nora puts the coin inside the drawer so the drawer now contains the coin .
+nora places the coin above the drawer so the drawer sits below the coin .
+nora places the coin below the drawer so the drawer sits above the coin .
+nora sets the coin on the left and the drawer on the right .
+nora sets the coin on the right and the drawer on the left .
+nora places the coin beside the drawer and leaves it outside .
+omar puts the coin inside the drawer so the drawer now contains the coin .
+omar places the coin above the drawer so the drawer sits below the coin .
+omar places the coin below the drawer so the drawer sits above the coin .
+omar sets the coin on the left and the drawer on the right .
+omar sets the coin on the right and the drawer on the left .
+omar places the coin beside the drawer and leaves it outside .
+iris puts the coin inside the drawer so the drawer now contains the coin .
+iris places the coin above the drawer so the drawer sits below the coin .
+iris places the coin below the drawer so the drawer sits above the coin .
+iris sets the coin on the left and the drawer on the right .
+iris sets the coin on the right and the drawer on the left .
+iris places the coin beside the drawer and leaves it outside .
+sam puts the coin inside the drawer so the drawer now contains the coin .
+sam places the coin above the drawer so the drawer sits below the coin .
+sam places the coin below the drawer so the drawer sits above the coin .
+sam sets the coin on the left and the drawer on the right .
+sam sets the coin on the right and the drawer on the left .
+sam places the coin beside the drawer and leaves it outside .
+rose puts the coin inside the drawer so the drawer now contains the coin .
+rose places the coin above the drawer so the drawer sits below the coin .
+rose places the coin below the drawer so the drawer sits above the coin .
+rose sets the coin on the left and the drawer on the right .
+rose sets the coin on the right and the drawer on the left .
+rose places the coin beside the drawer and leaves it outside .
+ben puts the coin inside the drawer so the drawer now contains the coin .
+ben places the coin above the drawer so the drawer sits below the coin .
+ben places the coin below the drawer so the drawer sits above the coin .
+ben sets the coin on the left and the drawer on the right .
+ben sets the coin on the right and the drawer on the left .
+ben places the coin beside the drawer and leaves it outside .
+mia puts the shoe inside the jar so the jar now contains the shoe .
+mia places the shoe above the jar so the jar sits below the shoe .
+mia places the shoe below the jar so the jar sits above the shoe .
+mia sets the shoe on the left and the jar on the right .
+mia sets the shoe on the right and the jar on the left .
+mia places the shoe beside the jar and leaves it outside .
+leo puts the shoe inside the jar so the jar now contains the shoe .
+leo places the shoe above the jar so the jar sits below the shoe .
+leo places the shoe below the jar so the jar sits above the shoe .
+leo sets the shoe on the left and the jar on the right .
+leo sets the shoe on the right and the jar on the left .
+leo places the shoe beside the jar and leaves it outside .
+nora puts the shoe inside the jar so the jar now contains the shoe .
+nora places the shoe above the jar so the jar sits below the shoe .
+nora places the shoe below the jar so the jar sits above the shoe .
+nora sets the shoe on the left and the jar on the right .
+nora sets the shoe on the right and the jar on the left .
+nora places the shoe beside the jar and leaves it outside .
+omar puts the shoe inside the jar so the jar now contains the shoe .
+omar places the shoe above the jar so the jar sits below the shoe .
+omar places the shoe below the jar so the jar sits above the shoe .
+omar sets the shoe on the left and the jar on the right .
+omar sets the shoe on the right and the jar on the left .
+omar places the shoe beside the jar and leaves it outside .
+iris puts the shoe inside the jar so the jar now contains the shoe .
+iris places the shoe above the jar so the jar sits below the shoe .
+iris places the shoe below the jar so the jar sits above the shoe .
+iris sets the shoe on the left and the jar on the right .
+iris sets the shoe on the right and the jar on the left .
+iris places the shoe beside the jar and leaves it outside .
+sam puts the shoe inside the jar so the jar now contains the shoe .
+sam places the shoe above the jar so the jar sits below the shoe .
+sam places the shoe below the jar so the jar sits above the shoe .
+sam sets the shoe on the left and the jar on the right .
+sam sets the shoe on the right and the jar on the left .
+sam places the shoe beside the jar and leaves it outside .
+rose puts the shoe inside the jar so the jar now contains the shoe .
+rose places the shoe above the jar so the jar sits below the shoe .
+rose places the shoe below the jar so the jar sits above the shoe .
+rose sets the shoe on the left and the jar on the right .
+rose sets the shoe on the right and the jar on the left .
+rose places the shoe beside the jar and leaves it outside .
+ben puts the shoe inside the jar so the jar now contains the shoe .
+ben places the shoe above the jar so the jar sits below the shoe .
+ben places the shoe below the jar so the jar sits above the shoe .
+ben sets the shoe on the left and the jar on the right .
+ben sets the shoe on the right and the jar on the left .
+ben places the shoe beside the jar and leaves it outside .
+mia puts the flower inside the case so the case now contains the flower .
+mia places the flower above the case so the case sits below the flower .
+mia places the flower below the case so the case sits above the flower .
+mia sets the flower on the left and the case on the right .
+mia sets the flower on the right and the case on the left .
+mia places the flower beside the case and leaves it outside .
+leo puts the flower inside the case so the case now contains the flower .
+leo places the flower above the case so the case sits below the flower .
+leo places the flower below the case so the case sits above the flower .
+leo sets the flower on the left and the case on the right .
+leo sets the flower on the right and the case on the left .
+leo places the flower beside the case and leaves it outside .
+nora puts the flower inside the case so the case now contains the flower .
+nora places the flower above the case so the case sits below the flower .
+nora places the flower below the case so the case sits above the flower .
+nora sets the flower on the left and the case on the right .
+nora sets the flower on the right and the case on the left .
+nora places the flower beside the case and leaves it outside .
+omar puts the flower inside the case so the case now contains the flower .
+omar places the flower above the case so the case sits below the flower .
+omar places the flower below the case so the case sits above the flower .
+omar sets the flower on the left and the case on the right .
+omar sets the flower on the right and the case on the left .
+omar places the flower beside the case and leaves it outside .
+iris puts the flower inside the case so the case now contains the flower .
+iris places the flower above the case so the case sits below the flower .
+iris places the flower below the case so the case sits above the flower .
+iris sets the flower on the left and the case on the right .
+iris sets the flower on the right and the case on the left .
+iris places the flower beside the case and leaves it outside .
+sam puts the flower inside the case so the case now contains the flower .
+sam places the flower above the case so the case sits below the flower .
+sam places the flower below the case so the case sits above the flower .
+sam sets the flower on the left and the case on the right .
+sam sets the flower on the right and the case on the left .
+sam places the flower beside the case and leaves it outside .
+rose puts the flower inside the case so the case now contains the flower .
+rose places the flower above the case so the case sits below the flower .
+rose places the flower below the case so the case sits above the flower .
+rose sets the flower on the left and the case on the right .
+rose sets the flower on the right and the case on the left .
+rose places the flower beside the case and leaves it outside .
+ben puts the flower inside the case so the case now contains the flower .
+ben places the flower above the case so the case sits below the flower .
+ben places the flower below the case so the case sits above the flower .
+ben sets the flower on the left and the case on the right .
+ben sets the flower on the right and the case on the left .
+ben places the flower beside the case and leaves it outside .
+mia puts the clock inside the basket so the basket now contains the clock .
+mia places the clock above the basket so the basket sits below the clock .
+mia places the clock below the basket so the basket sits above the clock .
+mia sets the clock on the left and the basket on the right .
+mia sets the clock on the right and the basket on the left .
+mia places the clock beside the basket and leaves it outside .
+leo puts the clock inside the basket so the basket now contains the clock .
+leo places the clock above the basket so the basket sits below the clock .
+leo places the clock below the basket so the basket sits above the clock .
+leo sets the clock on the left and the basket on the right .
+leo sets the clock on the right and the basket on the left .
+leo places the clock beside the basket and leaves it outside .
+nora puts the clock inside the basket so the basket now contains the clock .
+nora places the clock above the basket so the basket sits below the clock .
+nora places the clock below the basket so the basket sits above the clock .
+nora sets the clock on the left and the basket on the right .
+nora sets the clock on the right and the basket on the left .
+nora places the clock beside the basket and leaves it outside .
+omar puts the clock inside the basket so the basket now contains the clock .
+omar places the clock above the basket so the basket sits below the clock .
+omar places the clock below the basket so the basket sits above the clock .
+omar sets the clock on the left and the basket on the right .
+omar sets the clock on the right and the basket on the left .
+omar places the clock beside the basket and leaves it outside .
+iris puts the clock inside the basket so the basket now contains the clock .
+iris places the clock above the basket so the basket sits below the clock .
+iris places the clock below the basket so the basket sits above the clock .
+iris sets the clock on the left and the basket on the right .
+iris sets the clock on the right and the basket on the left .
+iris places the clock beside the basket and leaves it outside .
+sam puts the clock inside the basket so the basket now contains the clock .
+sam places the clock above the basket so the basket sits below the clock .
+sam places the clock below the basket so the basket sits above the clock .
+sam sets the clock on the left and the basket on the right .
+sam sets the clock on the right and the basket on the left .
+sam places the clock beside the basket and leaves it outside .
+rose puts the clock inside the basket so the basket now contains the clock .
+rose places the clock above the basket so the basket sits below the clock .
+rose places the clock below the basket so the basket sits above the clock .
+rose sets the clock on the left and the basket on the right .
+rose sets the clock on the right and the basket on the left .
+rose places the clock beside the basket and leaves it outside .
+ben puts the clock inside the basket so the basket now contains the clock .
+ben places the clock above the basket so the basket sits below the clock .
+ben places the clock below the basket so the basket sits above the clock .
+ben sets the clock on the left and the basket on the right .
+ben sets the clock on the right and the basket on the left .
+ben places the clock beside the basket and leaves it outside .
+mia puts the photo inside the drawer so the drawer now contains the photo .
+mia places the photo above the drawer so the drawer sits below the photo .
+mia places the photo below the drawer so the drawer sits above the photo .
+mia sets the photo on the left and the drawer on the right .
+mia sets the photo on the right and the drawer on the left .
+mia places the photo beside the drawer and leaves it outside .
+leo puts the photo inside the drawer so the drawer now contains the photo .
+leo places the photo above the drawer so the drawer sits below the photo .
+leo places the photo below the drawer so the drawer sits above the photo .
+leo sets the photo on the left and the drawer on the right .
+leo sets the photo on the right and the drawer on the left .
+leo places the photo beside the drawer and leaves it outside .
+nora puts the photo inside the drawer so the drawer now contains the photo .
+nora places the photo above the drawer so the drawer sits below the photo .
+nora places the photo below the drawer so the drawer sits above the photo .
+nora sets the photo on the left and the drawer on the right .
+nora sets the photo on the right and the drawer on the left .
+nora places the photo beside the drawer and leaves it outside .
+omar puts the photo inside the drawer so the drawer now contains the photo .
+omar places the photo above the drawer so the drawer sits below the photo .
+omar places the photo below the drawer so the drawer sits above the photo .
+omar sets the photo on the left and the drawer on the right .
+omar sets the photo on the right and the drawer on the left .
+omar places the photo beside the drawer and leaves it outside .
+iris puts the photo inside the drawer so the drawer now contains the photo .
+iris places the photo above the drawer so the drawer sits below the photo .
+iris places the photo below the drawer so the drawer sits above the photo .
+iris sets the photo on the left and the drawer on the right .
+iris sets the photo on the right and the drawer on the left .
+iris places the photo beside the drawer and leaves it outside .
+sam puts the photo inside the drawer so the drawer now contains the photo .
+sam places the photo above the drawer so the drawer sits below the photo .
+sam places the photo below the drawer so the drawer sits above the photo .
+sam sets the photo on the left and the drawer on the right .
+sam sets the photo on the right and the drawer on the left .
+sam places the photo beside the drawer and leaves it outside .
+rose puts the photo inside the drawer so the drawer now contains the photo .
+rose places the photo above the drawer so the drawer sits below the photo .
+rose places the photo below the drawer so the drawer sits above the photo .
+rose sets the photo on the left and the drawer on the right .
+rose sets the photo on the right and the drawer on the left .
+rose places the photo beside the drawer and leaves it outside .
+ben puts the photo inside the drawer so the drawer now contains the photo .
+ben places the photo above the drawer so the drawer sits below the photo .
+ben places the photo below the drawer so the drawer sits above the photo .
+ben sets the photo on the left and the drawer on the right .
+ben sets the photo on the right and the drawer on the left .
+ben places the photo beside the drawer and leaves it outside .
+mia puts the hat inside the jar so the jar now contains the hat .
+mia places the hat above the jar so the jar sits below the hat .
+mia places the hat below the jar so the jar sits above the hat .
+mia sets the hat on the left and the jar on the right .
+mia sets the hat on the right and the jar on the left .
+mia places the hat beside the jar and leaves it outside .
+leo puts the hat inside the jar so the jar now contains the hat .
+leo places the hat above the jar so the jar sits below the hat .
+leo places the hat below the jar so the jar sits above the hat .
+leo sets the hat on the left and the jar on the right .
+leo sets the hat on the right and the jar on the left .
+leo places the hat beside the jar and leaves it outside .
+nora puts the hat inside the jar so the jar now contains the hat .
+nora places the hat above the jar so the jar sits below the hat .
+nora places the hat below the jar so the jar sits above the hat .
+nora sets the hat on the left and the jar on the right .
+nora sets the hat on the right and the jar on the left .
+nora places the hat beside the jar and leaves it outside .
+omar puts the hat inside the jar so the jar now contains the hat .
+omar places the hat above the jar so the jar sits below the hat .
+omar places the hat below the jar so the jar sits above the hat .
+omar sets the hat on the left and the jar on the right .
+omar sets the hat on the right and the jar on the left .
+omar places the hat beside the jar and leaves it outside .
+iris puts the hat inside the jar so the jar now contains the hat .
+iris places the hat above the jar so the jar sits below the hat .
+iris places the hat below the jar so the jar sits above the hat .
+iris sets the hat on the left and the jar on the right .
+iris sets the hat on the right and the jar on the left .
+iris places the hat beside the jar and leaves it outside .
+sam puts the hat inside the jar so the jar now contains the hat .
+sam places the hat above the jar so the jar sits below the hat .
+sam places the hat below the jar so the jar sits above the hat .
+sam sets the hat on the left and the jar on the right .
+sam sets the hat on the right and the jar on the left .
+sam places the hat beside the jar and leaves it outside .
+rose puts the hat inside the jar so the jar now contains the hat .
+rose places the hat above the jar so the jar sits below the hat .
+rose places the hat below the jar so the jar sits above the hat .
+rose sets the hat on the left and the jar on the right .
+rose sets the hat on the right and the jar on the left .
+rose places the hat beside the jar and leaves it outside .
+ben puts the hat inside the jar so the jar now contains the hat .
+ben places the hat above the jar so the jar sits below the hat .
+ben places the hat below the jar so the jar sits above the hat .
+ben sets the hat on the left and the jar on the right .
+ben sets the hat on the right and the jar on the left .
+ben places the hat beside the jar and leaves it outside .
+mia puts the spoon inside the case so the case now contains the spoon .
+mia places the spoon above the case so the case sits below the spoon .
+mia places the spoon below the case so the case sits above the spoon .
+mia sets the spoon on the left and the case on the right .
+mia sets the spoon on the right and the case on the left .
+mia places the spoon beside the case and leaves it outside .
+leo puts the spoon inside the case so the case now contains the spoon .
+leo places the spoon above the case so the case sits below the spoon .
+leo places the spoon below the case so the case sits above the spoon .
+leo sets the spoon on the left and the case on the right .
+leo sets the spoon on the right and the case on the left .
+leo places the spoon beside the case and leaves it outside .
+nora puts the spoon inside the case so the case now contains the spoon .
+nora places the spoon above the case so the case sits below the spoon .
+nora places the spoon below the case so the case sits above the spoon .
+nora sets the spoon on the left and the case on the right .
+nora sets the spoon on the right and the case on the left .
+nora places the spoon beside the case and leaves it outside .
+omar puts the spoon inside the case so the case now contains the spoon .
+omar places the spoon above the case so the case sits below the spoon .
+omar places the spoon below the case so the case sits above the spoon .
+omar sets the spoon on the left and the case on the right .
+omar sets the spoon on the right and the case on the left .
+omar places the spoon beside the case and leaves it outside .
+iris puts the spoon inside the case so the case now contains the spoon .
+iris places the spoon above the case so the case sits below the spoon .
+iris places the spoon below the case so the case sits above the spoon .
+iris sets the spoon on the left and the case on the right .
+iris sets the spoon on the right and the case on the left .
+iris places the spoon beside the case and leaves it outside .
+sam puts the spoon inside the case so the case now contains the spoon .
+sam places the spoon above the case so the case sits below the spoon .
+sam places the spoon below the case so the case sits above the spoon .
+sam sets the spoon on the left and the case on the right .
+sam sets the spoon on the right and the case on the left .
+sam places the spoon beside the case and leaves it outside .
+rose puts the spoon inside the case so the case now contains the spoon .
+rose places the spoon above the case so the case sits below the spoon .
+rose places the spoon below the case so the case sits above the spoon .
+rose sets the spoon on the left and the case on the right .
+rose sets the spoon on the right and the case on the left .
+rose places the spoon beside the case and leaves it outside .
+ben puts the spoon inside the case so the case now contains the spoon .
+ben places the spoon above the case so the case sits below the spoon .
+ben places the spoon below the case so the case sits above the spoon .
+ben sets the spoon on the left and the case on the right .
+ben sets the spoon on the right and the case on the left .
+ben places the spoon beside the case and leaves it outside .
+a desk stands beside a shelf in the study .
+nora leaves a book on the shelf and a lamp near the window .
+leo carries a bag to the study .
+on the map north is at the top and south is at the bottom .
+mia walks to the left of the garden gate .
+omar walks to the right of the garden gate .
