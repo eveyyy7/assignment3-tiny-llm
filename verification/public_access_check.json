@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/eveyyy7/assignment3-tiny-llm",
+  "public": true,
+  "remote_files": 116,
+  "readme_evidence_links": 62,
+  "missing_links": [],
+  "anonymous_checks": [
+    {
+      "file": "assignment3_starter.ipynb",
+      "anonymous_status": 200,
+      "matches_local": true
+    },
+    {
+      "file": "assignment3_expanded.ipynb",
+      "anonymous_status": 200,
+      "matches_local": true
+    },
+    {
+      "file": "results/starter/training_curves.svg",
+      "anonymous_status": 200,
+      "matches_local": true
+    },
+    {
+      "file": "results/expanded/training_curves.svg",
+      "anonymous_status": 200,
+      "matches_local": true
+    },
+    {
+      "file": "evidence/student-chat.png",
+      "anonymous_status": 200,
+      "matches_local": true
+    },
+    {
+      "file": "evidence/unknown-words-chat.png",
+      "anonymous_status": 200,
+      "matches_local": true
+    },
+    {
+      "file": "results/starter/chat_transcript.json",
+      "anonymous_status": 200,
+      "matches_local": true
+    }
+  ]
+}
